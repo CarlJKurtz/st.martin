@@ -1,6 +1,12 @@
 # St. Martin
 The typeface St. Martin highlights a typographic oddity found in the works of the 19th-century Parisian printer Jean-Alexis Rouchon and mixes it with the supposed neutrality of a sans-serif base.
 
+![](https://github.com/carljkurtz/st.martin/blob/main/Specimen-Images/specimen-1.png?raw=true)
+
+![](https://github.com/carljkurtz/st.martin/blob/main/Specimen-Images/specimen-4.png?raw=true)
+
+![](https://github.com/carljkurtz/st.martin/blob/main/Specimen-Images/specimen-9.png?raw=true)
+
 ## About
 St. Martin was created in 2024 by Carl J. Kurtz for the class Ghostly Presences at the HAW-Hamburg, in which the students examined the works of the 19th-century Parisian printer Jean-Alexis Rouchon.
 
