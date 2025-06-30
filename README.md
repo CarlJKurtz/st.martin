@@ -25,6 +25,10 @@ To highlight these typographical peculiarities we chose to apply them onto the s
 This Font was designed for the 2024 class Ghostly Presences at the HAW in Hamburg under the guidance of Pierre Pané-Farré and Simon Thiefes.
 
 [^*]: Image by courtesy of the Bibliothèque Nationale de France.
+
+## Specimen and Essay
+You may read more about the typeface and buy a print specimen at [www.carljkurtz.de](https://carljkurtz.de/pages/stmartin/index.html).
+
 ## License and Copyright
 Copyright (c) 2024, Carl J. Kurtz (www.carljkurtz.de)
 
