@@ -1,0 +1,29 @@
+---
+unified-font-repository-version: "0.3"
+unified-font-repository-url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface-family:
+  name: St. Martin
+  desccription: The typeface St. Martin highlights a typographic artifact found in the works of the 19th-century Parisian printer Jean-Alexis Rouchon and applies it onto a sans-serif base.
+  tags:
+  - sans-serif
+  - grotesque
+  - historical
+  repository-url: https://github.com/CarlJKurtz/st.martin
+  project-url: https://carljkurtz.de/pages/stmartin/index.html
+  tools:
+  - Glyphs
+  similar-fonts:
+  - Amiamie
+  - Aileron
+  designer: 
+  - name: Carl J. Kurtz
+  - url: https://carljkurtz.de
+  writing-systems: 
+  - Latin
+  published: 
+  - 2025
+  license: 
+  - SIL Open Font License, Version 1.1
+  sample-text:
+  - en_us: Jumpy wizards vex bold stencil makers, crafting quirky glyphs for vintage axes
+...

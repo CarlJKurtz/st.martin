@@ -1,0 +1,1 @@
+Copyright (c) 2025, Carl J. Kurtz <mail@carljkurtz.de>
