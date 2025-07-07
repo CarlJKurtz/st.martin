@@ -10,6 +10,8 @@ St. Martin was created in 2024 by Carl J. Kurtz for the class Ghostly Presences 
 The St. Martin font software is licensed under the SIL Open Font License, Version 1.1. (See [LICENSE.txt](LICENSE.txt) and visit http://scripts.sil.org/OFL for FAQs and more information.
 
 ## Support
+Feel free to tag [@c.kurtz](https://www.instagram.com/c.kurtz/) on Instagram when you use the typeface.
+
 St. Martin is entirely free of charge for both commercial and private use. But type doesn't design itself — so please consider sharing this project with a fellow designer, or even support the project by sponsoring it here on GitHub.
 
 ## Acknowledgements
