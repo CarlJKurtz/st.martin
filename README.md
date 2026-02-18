@@ -4,8 +4,11 @@ St. Martin highlights a typographic artifact found in the works of the 19th-cent
 
 St. Martin was created in 2024 by Carl J. Kurtz for the class Ghostly Presences at the HAW Hamburg, in which the students examined the works of the 19th-century Parisian printer Jean-Alexis Rouchon.
 
+![3D-Visualisation of metal stencils](documentation/stencils/stencils-1.png)
 ![Specimen of St. Martin Regular](documentation/specimens/StMartin-September.png)
 ![Specimen of St. Martin](documentation/specimens/StMartin-RueAntoine.png)
+![3D-Visualisation of metal stencils](documentation/stencils/stencils-2.png)
+
 ## License
 The St. Martin font software is licensed under the SIL Open Font License, Version 1.1. (See [LICENSE.txt](LICENSE.txt) and visit http://scripts.sil.org/OFL for FAQs and more information.
 
